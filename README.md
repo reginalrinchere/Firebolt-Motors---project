@@ -87,6 +87,8 @@ Changed By
 Lookup (User)
 The user who changed the BillingPostalCode
 
-
 Requirement #6: Create an Assignment_History__c record whenever an Account’s BillingPostalCode is changed or populated for the first time. All fields should be populated.
+
+Requirement #7: At least 80% test code coverage.
+
 
