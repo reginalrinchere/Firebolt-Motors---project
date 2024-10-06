@@ -11,24 +11,15 @@ Contacts: Automobile dealer employees.
 
 The Sales Operations team uses a combination of Salesforce and spreadsheets to manage each sales rep’s territory. They are manually setting the Account Owner field to the sales rep’s User record when the Account’s Zip Code belongs to the sales rep. Currently, a list of zip codes and their sales rep is stored in spreadsheet that looks like this:
 
-Zip Code
-Sales Representative
-91000
-Blake
-91001
-Blake
-91002
-Blake
-91002
-Jacqueline
-91010
-Jacqueline
-91020
-Jacqueline
-92010
-Denise
-92020
-Aaron
+Zip Code               Sales Representative
+91000                  Blake
+91001                  Blake
+91002                  Blake
+91002                  Jacqueline
+91010                  Jacqueline
+91020                  Jacqueline
+92010                  Denise
+92020                  Aaron
 
 
 Since Firebolt Motors Inc.’s sales team has tripled in size in the past year, the Sales Operations team is having trouble keeping up with all the sales territory changes. This process must be automated!
